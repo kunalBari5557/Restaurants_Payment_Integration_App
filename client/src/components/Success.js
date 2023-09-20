@@ -5,25 +5,25 @@ const successContainerStyle = {
   justifyContent: "center",
   alignItems: "center",
   height: "100vh",
-  backgroundColor: "rgb(76 147 175)", // Green background color
+  backgroundColor: "rgb(76 147 175)", 
 };
 
 const successMessageStyle = {
   textAlign: "center",
-  backgroundColor: "#FFFFFF", // White background color
+  backgroundColor: "#FFFFFF", 
   padding: "20px",
   borderRadius: "8px",
-  boxShadow: "0px 4px 6px rgba(0, 0, 0, 0.1)", // Light shadow
-  maxWidth: "400px", // Limit the width of the message
+  boxShadow: "0px 4px 6px rgba(0, 0, 0, 0.1)", 
+  maxWidth: "400px", 
 };
 
 const headingStyle = {
-  color: "#4CAF50", // Green text color
-  fontSize: "24px", // Larger font size
+  color: "#4CAF50", 
+  fontSize: "24px", 
 };
 
 const paragraphStyle = {
-  fontSize: "18px", // Slightly larger font size for paragraphs
+  fontSize: "18px", 
   margin: "10px 0",
 };
 
