@@ -12,7 +12,6 @@ const Home = () => {
     const [cartData, setCartData] = useState(CardsData);
     const dispatch = useDispatch();
 
-
     // add to cart 
     const send = (e)=>{
         dispatch(addToCart(e))
