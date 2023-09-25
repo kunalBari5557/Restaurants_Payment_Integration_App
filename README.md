@@ -1,4 +1,4 @@
-1. Updated code available in main repository.
+1. Updated code available in master repository.
 
 2. Then clone code and use npm install command
 
